@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Zzzaikin.Argument {
+namespace Zzzaikin.Common {
     using System;
     
     

@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 
-namespace Zzzaikin.Argument
+namespace Zzzaikin.Common
 {
     public static class Argument
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zzzaikin.Argument", "Zzzaikin.Argument\Zzzaikin.Argument.csproj", "{CCF3DF55-33DF-4C83-929E-81FF229B4EE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zzzaikin.Common.Argument", "Zzzaikin.Common\Argument\Zzzaikin.Common.Argument.csproj", "{CCF3DF55-33DF-4C83-929E-81FF229B4EE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
